@@ -1,11 +1,11 @@
 {
   "name": "angular-treeview-main",
   "homepage": "https://github.com/tdol2506/angular-treeview-main",
-  "_release": "607f3501e1189384c8c826ad9363cf498f9b8909",
+  "_release": "9717fcd359aec1aea4f2800a8859fa824c2e75bb",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "607f3501e1189384c8c826ad9363cf498f9b8909"
+    "commit": "9717fcd359aec1aea4f2800a8859fa824c2e75bb"
   },
   "main": [
     "css/angular.treeview.css",
